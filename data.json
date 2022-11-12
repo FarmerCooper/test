@@ -1,0 +1,7 @@
+{
+    "favoriteGuitarists" : [
+        {"firstName":"Jimmy", "lastName":"Page"}, 
+        {"firstName":"Jimi", "lastName":"Hendrix"},
+        {"firstName":"Jack", "lastName":"White"}
+    ]
+}
